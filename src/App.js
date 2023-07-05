@@ -1,7 +1,16 @@
+import React, { useEffect } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.css';
+import './Style.css';
+import WOW from 'wowjs';
+import 'wowjs/css/libs/animate.css';
 
 function App() {
+  useEffect(() => {
+    new WOW.WOW().init();
+  }, []);
+  
   return (
     <div className="App">
       <header className="App-header">
@@ -17,6 +26,7 @@ function App() {
         >
           Learn React
         </a>
+        <p className='wow fadeIn'> Animation </p>
       </header>
     </div>
   );
