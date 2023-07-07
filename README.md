@@ -1,6 +1,6 @@
-# Google Pixel6
+# Google Pixel One Page Template
 
-This project is a web application built using React, Bootstrap, and Wow.js. It utilizes these technologies and frameworks to create a dynamic and visually appealing user interface.
+This project is a fully dynamic one-page website template inspired by the design of the Google Pixel website. It has been built using HTML, CSS, and React, with additional features like AOS animation, routing, and Bootstrap integration.
 
 ## Technologies Used
 
@@ -8,18 +8,19 @@ This project is a web application built using React, Bootstrap, and Wow.js. It u
 - JavaScript: For adding interactivity and dynamic functionality.
 - Front-end frameworks and libraries: React.
 - CSS frameworks: Bootstrap.
-- Animation library: Wow.js.
+- Animation library: AOS animation.
 
 ## Project Overview
 
-The project leverages the power of React framework to build a responsive and interactive web application. The UI layout and grid system are implemented using Bootstrap, providing a robust and flexible design structure. The Wow.js library is utilized to incorporate stunning animations that engage users and enhance the user experience.
+The goal of this project is to create a visually appealing and interactive website template that can be easily customized and extended. The template leverages the power of React's component-based architecture to create dynamic and reusable components. Bootstrap is used for the responsive layout and styling, providing a solid foundation for building a modern website. AOS animation library is integrated to add smooth scrolling and eye-catching animations.
 
 ## Features
 
-- Responsive layout with Bootstrap grid system
-- Wow.js animations for eye-catching effects
-- Interactive and dynamic components created with React.
-- Easy to maintain and extend using React's component-based architecture.
+- Responsive layout that adapts to different screen sizes.
+- AOS (Animate On Scroll) animation library for smooth scrolling effects.
+- React routing for seamless navigation between different sections.
+- Fully dynamic content that can be easily customized.
+- Easy-to-use and customizable components.
 
 ## Installation
 
@@ -34,6 +35,6 @@ The project leverages the power of React framework to build a responsive and int
 
 - [React](https://reactjs.org/)
 - [Bootstrap](https://getbootstrap.com/)
-- [Wow.js](https://wowjs.uk/)
+- [AOS](https://michalsnik.github.io/aos/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 

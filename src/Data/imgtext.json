@@ -1,0 +1,41 @@
+{
+    "images": [
+      {
+        "id": 1,
+        "src": "assets/images/textimg-1.png",
+        "text": "“As soon as they said Getty, I said yes. It means I get to represent people that look like me – South Asian with curly hair, big eyes, a big smile. You don’t always get to see that in the Australian media. It was really important for me to be part of that.”",
+        "imageOnLeft": true,
+        "beforecolor": "#E8F2F1",
+        "imgvertical" : true,
+        "imgbeforebottom" : true
+      },
+      {
+        "id": 2,
+        "src": "assets/images/fullimgtext2.png",
+        "text": "“When I’m taking photos of people with darker skin tones… the photo kind of blows out and treats that as underexposure when it’s really just a colour,” she says. “It challenges us to question why different skin tones are represented differently when exposing an image.” <br/>   <br/>   This phenomenon isn’t new. In fact, film photography has a troubling history of depicting lighter skin tones more favourably than darker ones due to limitations that have been built into the tools of the trade.",
+        "imageOnLeft": false,
+        "beforecolor": "#F2DCD8",
+        "imgvertical" : true,
+        "imgbeforebottom" : true
+      },
+      {
+        "id": 3,
+        "src": "assets/images/textimg-3.png",
+        "text": "The photoshoot that Nguyen and model Ragavi Ragavan took part in was done entirely on the Pixel 6. “We brought together 12 amazing talents with an incredible range of skin tones,” says Nguyen. “The Pixel 6 took away the need to readjust each image for skin tone, so I could focus on composing the image. <br/> <br/> “I see this new camera as such a great tool to open up the dialogue about inclusion from the lens – it reminds us to not be complacent about what an image can be. The technology is all there to be unlocked, it just requires that forethought during the developmental research phase.”",
+        "imageOnLeft": true,
+        "beforecolor": "#DEECC0",
+        "imgvertical" : true,
+        "imgbeforebottom" : true
+      },
+      {
+        "id": 3,
+        "src": "assets/images/textimg-2.png",
+        "text": "Leading this mission is Florian Koenigsberger, Google’s Image Equity Lead in New York. With his own background in photography, Koenigsberger was well aware of the limitations of many cameras in portraying people with darker skin tones. <br/> <br/> He spent the better part of a year speaking to a cross-section of photographers, cinematographers and engineers to find out what gains could be made. “One of the biggest technical decisions we made was to listen to experts who don’t build camera technology, but who specifically have built their careers around accurately and beautifully depicting and representing communities of colour,” he says.",
+        "imageOnLeft": true,
+        "beforecolor": "#DEE3E5",
+        "imgvertical" : true,
+        "imgbeforebottom" : true
+      }
+    ]
+  }
+  

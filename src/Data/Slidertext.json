@@ -1,0 +1,23 @@
+{
+    "Slidertextdata": [
+      {
+        "text": "“Growing up, model and dancer Ragavi Ragavan didn’t often see pictures of people who look like her. “As a young person, I was very impressionable, as most young people are. I was looking for permission to be myself and looking for people that look like me – it was difficult,” she recalls. ",
+        "textsecond" : " With around one in four Australians born overseas and another 800,000 identifying as First Nations (Australian Bureau of Statistics), Ragavan’s experience is far from unique. So, when the opportunity came up for her to take part in a photoshoot for Getty Images, she jumped at the chance. ",
+        "imageOnLeft": true,
+        "imghorizontal" : false
+      },
+      {
+        "text": "The emulsion used to coat film stock varies in its ability to accurately photograph darker skin tones, which is then compounded by the ways the colours are calibrated when photos are developed.”",
+        "textsecond" :"Many of the same underlying biases have remained in digital photography. “Cameras that incorrectly expose skin tones are a troubling repeat of history, and play towards the erasure of entire groups of people,” Nguyen says. “They’re a prime example of companies not trying hard enough, creating a product that fails to perform its simplest purpose of correctly photographing an image.",
+        "imageOnLeft": false,
+        "imghorizontal" : false
+      },
+      {
+        "text": "“On the one hand, building a camera is very technical; on the other it is very aesthetic and is fundamentally about seeing people.",
+        "textsecond": "“You have to build that perspective back into the technology, otherwise you run the risk of completely disassociating from the actual point of the tool. In this case, that’s to help people see themselves and to see others.”",
+        "imageOnLeft": true,
+        "imghorizontal" : true
+      }
+    ]
+  }
+  

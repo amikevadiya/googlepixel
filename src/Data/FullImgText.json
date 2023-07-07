@@ -1,0 +1,29 @@
+{
+    "Fullimgtexts": [
+      {
+        "id": 1,
+        "src": "assets/images/fullimgtext.png",
+        "text": "“I was looking for people that look like me – it was difficult.”",
+        "smalltext" : "Ragavi Ragavan",
+        "imageOnLeft": true,
+        "backgroundcolorcode": "#FFE1C3"
+      },
+      {
+        "id": 2,
+        "src": "assets/images/fullimgtwxt2.png",
+        "text": "“I see this new camera as such a great tool to open up the dialogue about inclusion from the lens.”",
+        "smalltext" : " Daphne Nguyen",
+        "imageOnLeft": true,
+        "backgroundcolorcode": "#DEECC0"
+      },
+      {
+        "id": 3,
+        "src": "assets/images/1.png",
+        "text": "Content for slider 3",
+        "smalltext" : " Ragavi Ragavan",
+        "imageOnLeft": true,
+        "backgroundcolorcode": "#000"
+      }
+    ]
+  }
+  

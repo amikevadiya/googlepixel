@@ -1,33 +1,40 @@
 import React, { useEffect } from 'react';
-import logo from './logo.svg';
-import './App.css';
-import 'bootstrap/dist/css/bootstrap.css';
-import './Style.css';
-import WOW from 'wowjs';
+import { BrowserRouter as Router, Route, Routes, useLocation } from 'react-router-dom';
 import 'wowjs/css/libs/animate.css';
+import 'bootstrap/dist/css/bootstrap.css';
+import './Css/Style.css';
+import './Css/Responsive.css';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+import HomePage from './Home';
+import Navbar from './Components/Navbar';
+import Footer from './Components/Footer';
 
 function App() {
+
   useEffect(() => {
-    new WOW.WOW().init();
+    AOS.init({
+      duration: 1000,
+      easing: 'ease-in-out'
+    });
   }, []);
   
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-        <p className='wow fadeIn'> Animation </p>
-      </header>
+ 
+      <Router>
+        <Navbar />
+        <div style={{ flex: '1 0 auto' }}>
+          <Routes>
+            <Route path="/" element={<HomePage />} />
+          </Routes>          
+        </div>
+        <Footer />
+      <div className='bottom-nav'>
+      <Navbar />
+      </div>   
+      </Router>
+     
     </div>
   );
 }
