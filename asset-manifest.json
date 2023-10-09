@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/googlepixel/static/css/main.b8dfe2f5.css",
+    "main.js": "/googlepixel/static/js/main.715a5488.js",
+    "static/js/787.551b5c66.chunk.js": "/googlepixel/static/js/787.551b5c66.chunk.js",
+    "static/media/slider.png": "/googlepixel/static/media/slider.69861701dbe59079a1c8.png",
+    "static/media/fullimgtext.png": "/googlepixel/static/media/fullimgtext.1a60148ba4e76411193a.png",
+    "static/media/fa-solid-900.ttf": "/googlepixel/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/1.png": "/googlepixel/static/media/1.46013930b780fd2d74d7.png",
+    "static/media/2.png": "/googlepixel/static/media/2.fd1c27e7629d603ad514.png",
+    "static/media/fa-brands-400.ttf": "/googlepixel/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/GoogleSansDisplay-MediumItalic.ttf": "/googlepixel/static/media/GoogleSansDisplay-MediumItalic.5a4dd06d9cc74d97dde2.ttf",
+    "static/media/GoogleSans-MediumItalic.ttf": "/googlepixel/static/media/GoogleSans-MediumItalic.0fe4637e6a1320fa09ec.ttf",
+    "static/media/GoogleSans-Medium.ttf": "/googlepixel/static/media/GoogleSans-Medium.53980445227ada4764a7.ttf",
+    "static/media/GoogleSans-Regular.ttf": "/googlepixel/static/media/GoogleSans-Regular.0d01ceaea2903216c4ee.ttf",
+    "static/media/GoogleSans-Bold.ttf": "/googlepixel/static/media/GoogleSans-Bold.2bacc73a12cbfcade9e4.ttf",
+    "static/media/fa-solid-900.woff2": "/googlepixel/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/googlepixel/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/pixels-phone.png": "/googlepixel/static/media/pixels-phone.0423a95a421b80468909.png",
+    "static/media/fa-regular-400.ttf": "/googlepixel/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/googlepixel/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/heading.svg": "/googlepixel/static/media/heading.dc860ae034ab98f0bc6c4d173608ffcb.svg",
+    "static/media/fa-v4compatibility.ttf": "/googlepixel/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/googlepixel/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "static/media/slick.svg": "/googlepixel/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/googlepixel/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/googlepixel/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/googlepixel/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/googlepixel/index.html",
+    "main.b8dfe2f5.css.map": "/googlepixel/static/css/main.b8dfe2f5.css.map",
+    "main.715a5488.js.map": "/googlepixel/static/js/main.715a5488.js.map",
+    "787.551b5c66.chunk.js.map": "/googlepixel/static/js/787.551b5c66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8dfe2f5.css",
+    "static/js/main.715a5488.js"
+  ]
+}
