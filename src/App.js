@@ -26,7 +26,7 @@ function App() {
         <Navbar />
         <div style={{ flex: '1 0 auto' }}>
           <Routes>
-            <Route path="/googlepixel" element={<HomePage />} />
+            <Route path="/googlepixels" element={<HomePage />} />
           </Routes>          
         </div>
         <Footer />
