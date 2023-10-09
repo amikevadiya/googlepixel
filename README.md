@@ -4,7 +4,7 @@ This project is a fully dynamic one-page website template inspired by the design
 
 # live link
 
-https://unstoreapp.com/
+
 
 ## Technologies Used
 
