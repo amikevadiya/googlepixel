@@ -21,21 +21,20 @@ function App() {
   
   return (
     <div className="App">
- 
-      <Router>
-        <Navbar />
-        <div style={{ flex: '1 0 auto' }}>
-          <Routes>
-            <Route path="/googlepixel/" element={<HomePage />} />
-          </Routes>          
-        </div>
-        <Footer />
-      <div className='bottom-nav'>
-      <Navbar />
-      </div>   
-      </Router>
-     
+  <Router>
+    <Navbar />
+    <div style={{ flex: '1 0 auto' }}>
+      <Routes>
+        <Route path="/googlepixel/" element={<HomePage />} />
+      </Routes>          
     </div>
+    <Footer />
+  </Router>
+  <div className='bottom-nav'>
+    <Navbar />
+  </div>   
+</div>
+
   );
 }
 
