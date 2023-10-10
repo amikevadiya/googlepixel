@@ -29,7 +29,7 @@ function App() {
             <Route path="/googlepixel/" element={<HomePage />} />
           </Routes>          
         </div>
-        {/* <Footer /> */}
+        <Footer />
       <div className='bottom-nav'>
       <Navbar />
       </div>   
